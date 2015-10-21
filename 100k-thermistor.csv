@@ -1,4 +1,4 @@
-temp(C), rmax(kohm),rnorm(kohm)rrmin(kohm)
+temp(C), rmax(kohm),rnorm(kohm),rrmin(kohm)
 -30,1805.1971,1733.2,1663.6657
 -29,1693.5863,1630.408,1569.3019
 -28,1593.938,1534.477,1476.9663
